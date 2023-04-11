@@ -1,2 +1,3 @@
 # trimev
-A cryptographic algorithm which consist of triple key  with one dynamic key 
+A cryptographic algorithm which consist of dual key  that creates dynamic key every time
+
