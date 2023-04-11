@@ -26,8 +26,6 @@ var (
 	expresstionblockarray = []expressionblock{}
 	//newley genrated expression
 	expressionarray []expressionblock
-	//String for encryption
-	//pt       = "keshav bcd"
 	pt       string
 	intarray []int
 	const1   = 66
